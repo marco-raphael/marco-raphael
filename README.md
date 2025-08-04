@@ -36,6 +36,6 @@
 
 <br>
 
-🧠 *"Disciplina é liberdade, compaixão é fortaleza, autenticidade é caminho."*
+🧠 *"Disciplina é liberdade. Consistência é força. Autenticidade é caminho."*
 
 ---
