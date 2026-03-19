@@ -1,41 +1,57 @@
-## Oii! Eu sou o Marco Raphael 😎
+# Marco Raphael
+### Software Engineering Student | Front-End Developer (ReactJS)
 
-- 🌱 Atualmente estou cursando o 1º período de **Engenharia de Software** na [Descomplica](https://descomplica.com.br/)
-- 💻 Tenho 3 anos de experiência como **Desenvolvedor Front-End Júnior** com foco em **ReactJS**
-- 📍 Moro no **Rio de Janeiro - RJ**
-- 🎓 Tenho interesse em projetos de tecnologia, interfaces modernas e soluções que geram impacto real
-- 📚 Estou sempre buscando evoluir tecnicamente e pessoalmente
+Desenvolvedor Front-End com 3 anos de experiência técnica, focado na criação de interfaces modernas, escaláveis e centradas na experiência do usuário. Atualmente, aprimoro minha base teórica e técnica em Engenharia de Software, expandindo meu domínio para o desenvolvimento Full Stack.
 
-##
+---
+
+### 🛠️ Perfil Profissional & Acadêmico
+
+* **Experiência:** 3 anos atuando como Desenvolvedor Front-End Júnior, com sólida vivência no ecossistema **ReactJS**.
+* **Formação:** Graduando em **Engenharia de Software** (2º Período) – [Faculdade Descomplica](https://descomplica.com.br/).
+* **Foco Atual:** Arquitetura de software, **Estrutura de Dados & Algoritmos**, e expansão para o **Backend**.
+* **Localização:** Rio de Janeiro - RJ.
+
+---
+
+### 🚀 Stack & Estudos
+
+#### **Front-End (Core)**
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+#### **Backend & Fundamentos (Em Desenvolvimento)**
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+* **Ciência da Computação:** Foco intensivo em **Estrutura de Dados** e **Algoritmos** para otimização de performance e lógica avançada.
+
+---
+
+### 📊 Estatísticas e Atividade
 
 <div align="center">
   <a href="https://github.com/marco-raphael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marco-raphael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-raphael&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marco-raphael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-raphael&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
-
-##
-
-### 🚀 Tecnologias que eu uso e estudo:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rapha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-##
-
-### 📲 Contato:
-
-<div> 
-  <a href="https://www.linkedin.com/in/marco-raphael/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<br>
-
-🧠 *"Disciplina é liberdade. Consistência é força. Autenticidade é caminho."*
 
 ---
+
+### 📩 Conecte-se comigo
+
+Para parcerias, projetos ou networking, sinta-se à vontade para entrar em contato:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-raphael/)
+
+---
+
+> *"Disciplina é liberdade. Consistência é força. Autenticidade é caminho."*
