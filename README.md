@@ -1,5 +1,5 @@
 # Marco Raphael
-### Software Engineering Student | Front-End Developer (ReactJS)
+### Software Engineer | Front-End Developer (ReactJS)
 
 Desenvolvedor Front-End com 3 anos de experiência técnica, focado na criação de interfaces modernas, escaláveis e centradas na experiência do usuário. Atualmente, aprimoro minha base teórica e técnica em Engenharia de Software, expandindo meu domínio para o desenvolvimento Full Stack.
 
